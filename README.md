@@ -15,7 +15,6 @@ SAGE is a web application built using the MERN (MongoDB, Express.js, React.js, N
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Authentication:** JSON Web Tokens (JWT)
-- **AI/ML:** Integration with machine learning models for smart recommendations
 
 ## Installation
 
@@ -29,7 +28,7 @@ SAGE is a web application built using the MERN (MongoDB, Express.js, React.js, N
    - Define environment variables (e.g., `PORT`, `MONGO_URI`, `JWT_SECRET`)
 5. Start the development server:
    - For frontend: `cd client && npm start`
-   - For backend: `cd server && npm start`
+   - For backend: `cd server && node index.js`
 
 ## Usage
 
